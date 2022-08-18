@@ -12,6 +12,7 @@
   <a href="https://github.com/johnmuir2001">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</div>
+
 <h1>Hi, I'm John. </h1>
 <h3>I'm a Full-Stack Developer based in the UK. I prefer Front-end, so design and animation. I've also started to dive into game development. Thanks for visiting</h3>
+</div>
