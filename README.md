@@ -9,5 +9,8 @@
   <a href="https://codepen.io/Johnmuir2001">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
   </a>
+  <a href="https://github.com/johnmuir2001">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
 
