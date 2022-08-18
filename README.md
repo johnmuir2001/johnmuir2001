@@ -14,3 +14,6 @@
   </a>
 </div>
 
+<a href="abc.html"
+   onMouseOver="this.style.color='#0F0'"
+   onMouseOut="this.style.color='#00F'" >Text</a>
