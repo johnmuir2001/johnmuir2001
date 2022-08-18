@@ -14,4 +14,4 @@
   </a>
 </div>
 <h1>Hi, I'm John. </h1>
-### I'm a Software Developer and Instructor ###
+<h3>I'm a Full-Stack Developer based in the UK. I prefer Front-end, so design and animation. A lot of my repos are for teaching demos</h3>
