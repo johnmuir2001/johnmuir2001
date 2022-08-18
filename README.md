@@ -13,7 +13,3 @@
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
-
-<a href="abc.html"
-   onMouseOver="this.style.color='red'"
-   onMouseOut="this.style.color='blue'" >Text</a>
