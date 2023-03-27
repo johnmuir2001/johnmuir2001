@@ -14,5 +14,5 @@
   </a>
 
 <h1>Hi, I'm John.</h1>
-<h3>I'm a Full-Stack Developer based in the UK. I prefer Front-end, especially animation. I've also started to dive into game development. Thanks for visiting!</h3>
+<h3>I'm a Full-Stack Developer and Animator based in the UK. I enjoy Front-end development, design and 3D animation. I've also started to dive into game development. Thanks for visiting!</h3>
 </div>
